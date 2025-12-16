@@ -1,0 +1,16 @@
+﻿<RevitAddIns>
+    <AddIn Type="Command">
+        <Name>Task4</Name>
+        <Assembly>Task4\Task4.dll</Assembly>
+        <AddInId>1AF654EE-A583-4899-A691-79EDB940C01A</AddInId>
+        <FullClassName>Task4.Commands.StartupCommand</FullClassName>
+        <Text>Task4</Text>
+        <VendorId>Development</VendorId>
+        <VendorDescription></VendorDescription>
+        <VendorEmail></VendorEmail>
+    </AddIn>
+    <ManifestSettings>
+        <UseRevitContext>False</UseRevitContext>
+        <ContextName>Task4</ContextName>
+    </ManifestSettings>
+</RevitAddIns>

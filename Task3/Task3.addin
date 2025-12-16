@@ -1,0 +1,16 @@
+﻿<RevitAddIns>
+    <AddIn Type="Command">
+        <Name>Task3</Name>
+        <Assembly>Task3\Task3.dll</Assembly>
+        <AddInId>12911781-7D50-4860-A38F-D60B9A25D205</AddInId>
+        <FullClassName>Task3.Commands.StartupCommand</FullClassName>
+        <Text>Task3</Text>
+        <VendorId>Development</VendorId>
+        <VendorDescription></VendorDescription>
+        <VendorEmail></VendorEmail>
+    </AddIn>
+    <ManifestSettings>
+        <UseRevitContext>False</UseRevitContext>
+        <ContextName>Task3</ContextName>
+    </ManifestSettings>
+</RevitAddIns>
